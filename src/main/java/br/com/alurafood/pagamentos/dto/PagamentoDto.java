@@ -16,6 +16,6 @@ public class PagamentoDto {
     private String expiracao;
     private String codigo;
     private Status status;
-    private Long formaDePagamento;
+    private Long formaDePagamentoId;
     private Long pedidoId;
 }
